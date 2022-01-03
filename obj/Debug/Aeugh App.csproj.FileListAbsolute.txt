@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\bin\Debug\Aeugh App.exe.config
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\bin\Debug\Aeugh App.exe
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\bin\Debug\Aeugh App.pdb
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\obj\Debug\Aeugh App.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\obj\Debug\Aeugh App.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\obj\Debug\Aeugh App.exe
+C:\Users\hp\source\repos\Aeugh App\Aeugh App\obj\Debug\Aeugh App.pdb
